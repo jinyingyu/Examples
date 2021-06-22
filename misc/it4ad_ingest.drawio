@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T14:24:17.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 OPR/77.0.4054.90" etag="RS_qPQmdwJThNAZlNC-u" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T14:26:11.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 OPR/77.0.4054.90" etag="8uHCoJOvNt6MV13SIM0E" version="14.8.0" type="github">
   <diagram id="Wa2opkx6iTZkoE2M8jvd" name="Page-1">
     <mxGraphModel dx="742" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="4z89gmZPOxtW4hvTrTZ5-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="160" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="4z89gmZPOxtW4hvTrTZ5-8" value="Hadoop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="60" width="60" height="20" as="geometry" />
+        <mxCell id="4z89gmZPOxtW4hvTrTZ5-8" value="MapR Hadoop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="60" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4z89gmZPOxtW4hvTrTZ5-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="60" height="80" as="geometry" />
@@ -46,8 +46,11 @@
             <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4z89gmZPOxtW4hvTrTZ5-20" value="Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="300" width="40" height="20" as="geometry" />
+        <mxCell id="4z89gmZPOxtW4hvTrTZ5-20" value="Data Transfer Station" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="340" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4z89gmZPOxtW4hvTrTZ5-21" value="Input zone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="340" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
